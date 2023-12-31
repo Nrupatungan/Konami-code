@@ -18,8 +18,8 @@ This is a solution to the [Konami code](https://github.com/wesbos/JavaScript30) 
 
 Users should be able to:
 
-- invoke cornify application on clicking screen
-- invoke cornify application on entering secret code via keyboard
+- invoke cornify application on clicking the screen in mobile version.
+- invoke cornify application on entering the secret code via keyboard in desktop version.
 
 ### Screenshot
 
@@ -37,8 +37,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- HTML5 Canvas
-- Canvas API
+- Cornify app
 - Vanilla JS
 
 ## Author
